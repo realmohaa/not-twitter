@@ -7,7 +7,7 @@ import Widgets from '../components/Timeline/Widgets'
 
 const Home: NextPage = () => {
   return (
-    <div className="">
+    <div className="overflow-hidden">
       <Head>
         <title>not Twitter</title>
         <link rel="icon" href="/favicon.ico" />
